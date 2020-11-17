@@ -4,7 +4,7 @@ const s='surprise';
 
 function writeCards(w , z){
   let a=["Thank you,"+w[0]+ ",for the wonderful " +z+" gift!"];
-  for (let i=1; i<n.length;i++){
+  for (let i=1; i<w.length;i++){
    
    a.push("Thank you,"+w[i]+ ",for the wonderful " +z+" gift!");
 
